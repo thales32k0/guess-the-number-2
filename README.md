@@ -1,5 +1,6 @@
 ### guess-the-number-2
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Bagde](https://img.shields.io/badge/Made%20for-Java-1f425f.svg)
 
 ---
 
