@@ -10,5 +10,6 @@ First application using Java, it is a guessing game and you need to guess the nu
 ---
 
 ### Developer
+
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
  
